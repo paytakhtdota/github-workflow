@@ -1,1 +1,1 @@
-console.log("js in main");
+console.log("js in block04/github-workflow/jsinmain.js");
